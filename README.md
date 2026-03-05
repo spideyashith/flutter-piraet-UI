@@ -102,7 +102,7 @@ Make sure you have the following installed:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/USERNAME/pirate-adventure-flutter.git
+git clone https://github.com/spideyashith/flutter-piraet-UI.git
 ```
 
 **2. Navigate into the project**
@@ -228,7 +228,7 @@ See the full [LICENSE](LICENSE) file for details.
 
 | | |
 |---|---|
-| 👤 **Author** | [Ashith Fernandes] |
+| 👤 **Author** | Ashith Fernandes |
 | 🐙 **GitHub** | [@spideyashith](https://github.com/spideyashith) |
 | 📧 **Email** | ashithfernandes319@gmail.com |
 
