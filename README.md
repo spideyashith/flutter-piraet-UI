@@ -18,16 +18,6 @@
 
 </div>
 
----
-
-## 📸 Screenshots
-
-> *(Add your screenshots here by placing images in a `/screenshots` folder and updating the paths below)*
-
-| Start Screen | Pirate Map | Treasure Event | Mission Screen |
-|:---:|:---:|:---:|:---:|
-| ![Start](screenshots/start_screen.png) | ![Map](screenshots/map_screen.png) | ![Treasure](screenshots/treasure_event.png) | ![Mission](screenshots/mission_screen.png) |
-| *Starry night & glowing ship* | *Animated travel path* | *Gold sparkle particles* | *Parallax ocean effect* |
 
 ---
 
@@ -238,9 +228,9 @@ See the full [LICENSE](LICENSE) file for details.
 
 | | |
 |---|---|
-| 👤 **Author** | [Your Name](https://github.com/USERNAME) |
-| 🐙 **GitHub** | [@USERNAME](https://github.com/USERNAME) |
-| 📧 **Email** | your.email@example.com |
+| 👤 **Author** | [Ashith Fernandes] |
+| 🐙 **GitHub** | [@spideyashith](https://github.com/spideyashith) |
+| 📧 **Email** | ashithfernandes319@gmail.com |
 
 *Feel free to reach out if you have questions, suggestions, or just want to talk Flutter!*
 
